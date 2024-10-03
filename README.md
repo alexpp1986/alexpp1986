@@ -13,4 +13,4 @@ Repostitório criado para aula de versionamento do BootCamp4all do grupo integra
   - git config user.email "emailUsuário"`
   
 
-![GITHUB](
+![Logo github](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png)
